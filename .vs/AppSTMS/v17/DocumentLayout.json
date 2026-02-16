@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\migrations\\20260209215602_mg02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\migrations\\20260209215602_mg02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\projecttaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\projecttaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\taskcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\taskcommentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\taskattachmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\taskattachmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\taskdependenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\taskdependenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\taskattachments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\taskattachments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\migrations\\20260209212030_mg01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\migrations\\20260209212030_mg01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\taskdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\taskdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\taskcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\taskcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\teammemberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\taskprioritiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\taskprioritiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\projectteamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\projectteamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\projecttaskstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\projecttaskstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\projecttaskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\projecttaskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\projectteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\projectteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|c:\\users\\asus zenbook\\downloads\\proffetional asp.net course\\c# practice\\appstms\\appstms\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA4D0A9-F2F6-4F25-BE8F-BCBAD37E16B8}|AppSTMS\\AppSTMS.csproj|solutionrelative:appstms\\models\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppSTMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppSTMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-09T22:05:47.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskCommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TaskCommentsController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\TaskCommentsController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TaskCommentsController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\TaskCommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:51:12.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TeamMember.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\TeamMember.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:20:51.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AppSTMS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAA/f9/MOT6vxIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:37:45.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\ProjectTasksController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\ProjectTasksController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\ProjectTasksController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\ProjectTasksController.cs",
+              "ViewState": "AgIAAFUAAACAVRWBhSUywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:54:26.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260209215602_mg02.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Migrations\\20260209215602_mg02.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Migrations\\20260209215602_mg02.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Migrations\\20260209215602_mg02.cs",
+              "RelativeToolTip": "AppSTMS\\Migrations\\20260209215602_mg02.cs",
+              "ViewState": "AgIAAAcAAACAV9XqLeI3wIsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:56:03.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskAttachmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TaskAttachmentsController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\TaskAttachmentsController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TaskAttachmentsController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\TaskAttachmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:50:20.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260209212030_mg01.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Migrations\\20260209212030_mg01.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Migrations\\20260209212030_mg01.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Migrations\\20260209212030_mg01.cs",
+              "RelativeToolTip": "AppSTMS\\Migrations\\20260209212030_mg01.cs",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAcwIUBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:20:31.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskDependenciesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TaskDependenciesController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\TaskDependenciesController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TaskDependenciesController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\TaskDependenciesController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwH0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:19:58.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\appsettings.json",
+              "RelativeDocumentMoniker": "AppSTMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\appsettings.json",
+              "RelativeToolTip": "AppSTMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-07T17:14:52.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskComments.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TaskComments.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\TaskComments.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TaskComments.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\TaskComments.cs",
+              "ViewState": "AgIAAAMAAABAVVVVVVUnwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:09:46.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskAttachments.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TaskAttachments.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\TaskAttachments.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TaskAttachments.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\TaskAttachments.cs",
+              "ViewState": "AgIAAAQAAACA/////38rwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:10:12.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\Project.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:19:49.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamMembersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TeamMembersController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\TeamMembersController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TeamMembersController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\TeamMembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:03:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskDependency.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TaskDependency.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\TaskDependency.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TaskDependency.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\TaskDependency.cs",
+              "ViewState": "AgIAAAAAAADA/3+0mcsfwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:12:20.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskPrioritiesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TaskPrioritiesController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\TaskPrioritiesController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\TaskPrioritiesController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\TaskPrioritiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T21:02:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectTeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\ProjectTeamsController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\ProjectTeamsController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\ProjectTeamsController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\ProjectTeamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:59:06.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectTaskStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\ProjectTaskStatusController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\ProjectTaskStatusController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\ProjectTaskStatusController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\ProjectTaskStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:58:13.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:56:03.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\AppUsersController.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Controllers\\AppUsersController.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Controllers\\AppUsersController.cs",
+              "RelativeToolTip": "AppSTMS\\Controllers\\AppUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:54:48.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectTaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\ProjectTaskStatus.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\ProjectTaskStatus.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\ProjectTaskStatus.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\ProjectTaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:05:17.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectTeam.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\ProjectTeam.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\ProjectTeam.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\ProjectTeam.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\ProjectTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:06:02.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\ProjectTask.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\ProjectTask.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\ProjectTask.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T16:58:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\AppUser.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T20:06:01.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "AppSTMS\\Models\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\ASUS ZenBook\\Downloads\\proffetional Asp.net course\\C# practice\\AppSTMS\\AppSTMS\\Models\\TaskPriority.cs",
+              "RelativeToolTip": "AppSTMS\\Models\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:06:34.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
