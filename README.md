@@ -1,1 +1,1 @@
-# AppSTMS
+# Smart Task Management System
