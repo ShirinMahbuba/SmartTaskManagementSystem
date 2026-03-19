@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-AppSTMS-6319c337-d29c-46a2-9e9e-c0a4a2b90ef7")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppSTMS")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce67e1c8c810510e9e7296b84b643e8aa9dc1c12")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppSTMS")]
